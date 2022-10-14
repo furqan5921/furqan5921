@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Furqan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furqan5921&label=Profile%20views&color=0e75b6&style=flat" alt="adilahmed976" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furqan5921&label=Profile%20views&color=0e75b6&style=flat" alt="furqan5921" /> </p>
 
 <p align="left"> <a href="https://github.com/furqan5921/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furqan5921" alt="furqan5921" /></a> </p>
 
