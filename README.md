@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/furqan5921/" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/furqan5921/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlua2VkaW58ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60)" alt="furqan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/furqan5921/" target="_blank"><img  src="[https://raw.githubusercontent.com/furqan5921/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlua2VkaW58ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60)" alt="furqan" height="30" width="40" /></a>
 </p>
 
 
