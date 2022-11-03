@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning || JASAVSCRIPT, React, Redux, MongoDb, Node JS, ExpressJS, Chakra UI||
+- 🌱 I’m currently learning || JAVASCRIPT, React, Redux, MongoDb, Node JS, ExpressJS, Chakra UI, Material UI ||
  
 - 📫 How to reach me : furqanali5921@gmail.com
 
