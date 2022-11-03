@@ -27,7 +27,7 @@
 <a href= "https://reactjs.org/" target="_blank" rel="noreferrer"> <img src= "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="material UI" width="40" height="40"/> </a> 
+<a href="https://mui.com/"><img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="material UI" width="40" height="40"/> </a> 
 <a href="https://styled-components.com" target="_blank" rel="styled"> <img src= "https://styled-components.com/logo.png" alt="styled" width="40" height="40"/> </a>
 <a href= "https://chakra-ui.com/" target="_blank" rel="styled"> <img src= "https://www.coffeeclass.io/logos/chakra-ui.png" alt="styled" width="40" height="40"/> </a>
 <a href= "https://www.typescriptlang.org/" target="_blank" rel="styled"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="styled" width="40" height="40"/> </a>
