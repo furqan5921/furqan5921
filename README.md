@@ -41,6 +41,8 @@
 | <a href="https://github.com/furqan5921/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api?username=furqan5921&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="furqan5921 github stats" /></a> | <a href="https://github.com/furqan5921/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=furqan5921&show_icons=true&locale=en&layout=compact" /></a> |
 | ------------- | ------------- |
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furqan5921&show_icons=true&locale=en" alt="adilahmed976" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furqan5921&" alt="furqan5921" /></p>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=furqan5921&theme=radical" alt="furqan" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=furqan5921&show_icons=true&theme=radical" alt-"furqan height="255px" width="47%"/>
+<div>
