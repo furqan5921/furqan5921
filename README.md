@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href = 'https://furqan5921.github.io'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/69167064/159184625-7c17e903-f6ee-4e07-98e8-07614c393408.png"/></a>
 <a href="https://www.linkedin.com/in/furqan5921/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/linkedin-162-498418.png" alt="furqan" height="30" width="30" /></a>
  <a href = 'https://www.github.com/furqan5921'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/69167064/159184628-cdccf231-ec4d-4ae4-bde7-5d8274f57146.svg"/></a> 
 </p>
